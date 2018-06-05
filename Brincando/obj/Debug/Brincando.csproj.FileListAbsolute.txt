@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\Brincando\Brincando\bin\Debug\Brincando.exe.config
+C:\Users\Aluno\source\repos\Brincando\Brincando\bin\Debug\Brincando.exe
+C:\Users\Aluno\source\repos\Brincando\Brincando\bin\Debug\Brincando.pdb
+C:\Users\Aluno\source\repos\Brincando\Brincando\obj\Debug\Brincando.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\source\repos\Brincando\Brincando\obj\Debug\Brincando.Form1.resources
+C:\Users\Aluno\source\repos\Brincando\Brincando\obj\Debug\Brincando.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Brincando\Brincando\obj\Debug\Brincando.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Brincando\Brincando\obj\Debug\Brincando.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Brincando\Brincando\obj\Debug\Brincando.exe
+C:\Users\Aluno\source\repos\Brincando\Brincando\obj\Debug\Brincando.pdb
